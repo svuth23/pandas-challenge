@@ -83,6 +83,8 @@ A table of Scores by School Spending looks as follows:
 8. **Scores by School Size**: Breaks down school performance based on school size (small, medium, large) and calculates mean scores and passing percentages.
 
 9. **Scores by School Type**: Analyzes school performance based on school type and calculates average scores and passing percentages.
+    
+![image](https://github.com/svuth23/pandas-challenge/assets/136966712/224dfcc2-1a5f-48b9-a8af-30e2f34d6877)
 
 ## Results
 
