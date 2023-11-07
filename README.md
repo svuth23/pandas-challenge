@@ -67,10 +67,15 @@ The school summary finding showed that from 15 schools 8 of them are independent
 3. **Highest-Performing Schools (by % Overall Passing)**: Identifies and displays the top 5 schools with the highest overall passing percentage
 
 
+![image](https://github.com/svuth23/pandas-challenge/assets/136966712/d5109784-a281-4873-9ad0-845ba8baacdd)
+
+
 
 4. **Lowest-Performing Schools (by % Overall Passing)**: Identifies and displays the 5 schools with the lowest overall passing percentage.
+
  
 ![image](https://github.com/svuth23/pandas-challenge/assets/136966712/fed18fe2-8fa5-4abb-b0c7-006d1f3230ac)
+
 
 
 
@@ -84,11 +89,14 @@ A table of Scores by School Spending looks as follows:
 ![image](https://github.com/svuth23/pandas-challenge/assets/136966712/dd69b7fb-9c07-4cb4-856e-20182185f639)
 
 
+
 8. **Scores by School Size**: Breaks down school performance based on school size (small, medium, large) and calculates mean scores and passing percentages.
 
 9. **Scores by School Type**: Analyzes school performance based on school type and calculates average scores and passing percentages.
+
     
 ![image](https://github.com/svuth23/pandas-challenge/assets/136966712/224dfcc2-1a5f-48b9-a8af-30e2f34d6877)
+
 
 ## Results
 
@@ -104,7 +112,7 @@ Data Analysis Bootcamp.
 
 
 ## Contact
-If there are any questions of concerns, I can be reached at:
+If there are any questions or concerns, I can be reached at:
 ##### [github: svuth23](https://github.com/svuth23)
 ##### [email: swapna.vuthpala@gmail.com](mailto:swapna
 
