@@ -114,7 +114,7 @@ Data Analysis Bootcamp.
 ## Contact
 If there are any questions or concerns, I can be reached at:
 ##### [github: svuth23](https://github.com/svuth23)
-##### [email: swapna.vuthpala@gmail.com](mailto:swapna
+##### [email: swapna.vuthpala@gmail.com]
 
 
 
