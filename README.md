@@ -69,6 +69,10 @@ The school summary finding showed that from 15 schools 8 of them are independent
 
 
 4. **Lowest-Performing Schools (by % Overall Passing)**: Identifies and displays the 5 schools with the lowest overall passing percentage.
+ 
+![image](https://github.com/svuth23/pandas-challenge/assets/136966712/fed18fe2-8fa5-4abb-b0c7-006d1f3230ac)
+
+
 
 5. **Math Scores by Year**: Calculates average math scores for students of each year level (9, 10, 11, 12) at each school.
 
