@@ -77,6 +77,7 @@ The school summary finding showed that from 15 schools 8 of them are independent
 7. **Scores by School Spending**: Breaks down school performance based on average spending ranges (per student) and calculates mean scores and passing percentages.
 A table of Scores by School Spending looks as follows:
 
+![image](https://github.com/svuth23/pandas-challenge/assets/136966712/dd69b7fb-9c07-4cb4-856e-20182185f639)
 
 
 8. **Scores by School Size**: Breaks down school performance based on school size (small, medium, large) and calculates mean scores and passing percentages.
